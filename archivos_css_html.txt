@@ -1,0 +1,10 @@
+Hola, este es un ejemplo para el curso de git
+
+Aqui van las modificaciones
+1
+2
+3
+4
+5
+6
+7
