@@ -8,3 +8,5 @@ Aqui van las modificaciones
 5
 6
 7
+
+Todo esto se supone que es un archivo de HTML/CSS Esperen pronto el curso de HTML y CSS ;) no se lo pierdan.
